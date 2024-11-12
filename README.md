@@ -1,4 +1,4 @@
-### Hi, I'm Rupendra Choudhary 👋 
+ ### Hi, I'm Rupendra Choudhary 👋 
 
 I'm a frontend developer specializing in pixel-perfect web design.
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/rupendra-choudhary-809ab326b/).
