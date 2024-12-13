@@ -1,7 +1,7 @@
 ### Hi, I'm Rupendra Choudhary 👋 
 
 I'm a frontend developer specializing in pixel-perfect web design.
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/rupendra-choudhary-809ab326b/).
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/dev-rupendra-kumar/).
 
 ## 🔭 Current Endeavors 
 
@@ -13,7 +13,7 @@ I'm currently learning MERN Stack, where my journey involves both building and l
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/rupendra_choudhary_/) or [LinkedIn](https://www.linkedin.com/in/rupendra-choudhary-809ab326b/). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/rupendra_choudhary_/) or [LinkedIn](https://www.linkedin.com/in/dev-rupendra-kumar/). 
  
  For professional inquiries, reach out via email at [rupendrachoudhary25@gmail.com](mailto:rupendrachoudhayr25@gmail.com). 
 
